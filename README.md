@@ -4,7 +4,7 @@ A user configuration template for AstroNvim
 ## Installation
 
 ### Install neovim
-*Arch Linux:*
+**Arch Linux:**
 ```
 sudo pacman -S neovim 
 ```
