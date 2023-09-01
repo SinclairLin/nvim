@@ -1,3 +1,4 @@
+require("utils.fcitx5")
 return {
   -- Configure AstroNvim updates
   updater = {
